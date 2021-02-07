@@ -158,7 +158,7 @@ The bot computes the route and sends an image with the journey. The bot tells th
 The user has to go through checkpoints to reach its desitination, with the help of the indications the bot give.
 Once a checkpoint is reached, he has to go to the next checkpoint... until the route ends.
 
-Here is an example, the user wants to go to "Platja de la nova Ic‡ria" from "Carrer de Badajoz, 56"
+Here is an example, the user wants to go to "Platja de la nova Ic√†ria" from "Carrer de Badajoz, 56"
 
 <span>
 <img width="310" height="549" src='example-route-1.png'>
@@ -180,7 +180,7 @@ If the place doesn't exist, the bot won't understand the message and would tell 
 Another remarkable feature is that inline buttons are added in some cases. They improve the user experience when interacting with the bot.
 It gives the user the possibility to choose what to do when some situations happen.  
 <span>
-<img width="310" height="466"src='example-commands-1.png'>
+<img width="310" height="466" src='example-commands-1.png'>
 <img width="310" height="466" src='example-go-1.png'>
 <img width="310" height="466" src='example-go-2.png'>
 <img width="310" height="466" src='example-commands-2.png'>
